@@ -1,5 +1,9 @@
-2026/01/20-19:51:26.087 2bb0 Reusing MANIFEST C:\Users\hp\Bot_Project\session_data\Default\IndexedDB\https_app.tunnl.io_0.indexeddb.leveldb/MANIFEST-000001
-2026/01/20-19:51:26.088 2bb0 Recovering log #10
-2026/01/20-19:51:26.122 2bb0 Reusing old log C:\Users\hp\Bot_Project\session_data\Default\IndexedDB\https_app.tunnl.io_0.indexeddb.leveldb/000010.log 
-2026/01/20-19:51:26.122 2bb0 Delete type=2 #9
-2026/01/20-19:51:26.122 2bb0 Delete type=2 #11
+2026/01/21-01:37:50.391 42a0 Reusing MANIFEST C:\Users\hp\Bot_Project\session_data\Default\IndexedDB\https_app.tunnl.io_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/21-01:37:50.391 42a0 Recovering log #24
+2026/01/21-01:37:50.395 42a0 Reusing old log C:\Users\hp\Bot_Project\session_data\Default\IndexedDB\https_app.tunnl.io_0.indexeddb.leveldb/000024.log 
+2026/01/21-01:37:52.194 16d8 Compacting 1@1 + 1@2 files
+2026/01/21-01:37:52.225 16d8 Generated table #27@1: 91 keys, 2235 bytes
+2026/01/21-01:37:52.225 16d8 Compacted 1@1 + 1@2 files => 2235 bytes
+2026/01/21-01:37:52.227 16d8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/21-01:37:52.228 16d8 Delete type=2 #23
+2026/01/21-01:37:52.228 16d8 Delete type=2 #25

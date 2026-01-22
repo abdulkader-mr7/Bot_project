@@ -1,19 +1,30 @@
-2026/01/19-23:02:07.008 37c4 Reusing MANIFEST C:\Users\hp\Bot_Project\session_data\Default\IndexedDB\https_app.tunnl.io_0.indexeddb.leveldb/MANIFEST-000001
-2026/01/19-23:02:07.009 37c4 Recovering log #4
-2026/01/19-23:02:07.029 37c4 Reusing old log C:\Users\hp\Bot_Project\session_data\Default\IndexedDB\https_app.tunnl.io_0.indexeddb.leveldb/000004.log 
-2026/01/19-23:19:03.314 3424 Level-0 table #8: started
-2026/01/19-23:19:03.362 3424 Level-0 table #8: 720370 bytes OK
-2026/01/19-23:19:03.365 3424 Delete type=0 #4
-2026/01/19-23:19:47.446 37c4 Compacting 1@1 + 1@2 files
-2026/01/19-23:19:47.493 37c4 Generated table #9@1: 163 keys, 3871 bytes
-2026/01/19-23:19:47.493 37c4 Compacted 1@1 + 1@2 files => 3871 bytes
-2026/01/19-23:19:47.496 37c4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/01/19-23:19:47.497 37c4 Delete type=2 #5
-2026/01/19-23:19:47.497 37c4 Delete type=2 #8
-2026/01/19-23:20:34.863 2674 Level-0 table #11: started
-2026/01/19-23:20:34.907 2674 Level-0 table #11: 711118 bytes OK
-2026/01/19-23:20:34.910 2674 Delete type=0 #7
-2026/01/19-23:20:36.889 37c4 Compacting 1@1 + 1@2 files
-2026/01/19-23:20:36.922 37c4 Generated table #12@1: 63 keys, 1434 bytes
-2026/01/19-23:20:36.922 37c4 Compacted 1@1 + 1@2 files => 1434 bytes
-2026/01/19-23:20:36.925 37c4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/21-01:30:25.717 41e0 Reusing MANIFEST C:\Users\hp\Bot_Project\session_data\Default\IndexedDB\https_app.tunnl.io_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/21-01:30:25.718 41e0 Recovering log #14
+2026/01/21-01:30:25.733 41e0 Reusing old log C:\Users\hp\Bot_Project\session_data\Default\IndexedDB\https_app.tunnl.io_0.indexeddb.leveldb/000014.log 
+2026/01/21-01:30:39.904 14b8 Compacting 1@1 + 1@2 files
+2026/01/21-01:30:39.927 14b8 Generated table #17@1: 71 keys, 1564 bytes
+2026/01/21-01:30:39.927 14b8 Compacted 1@1 + 1@2 files => 1564 bytes
+2026/01/21-01:30:39.929 14b8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/21-01:30:39.930 14b8 Delete type=2 #12
+2026/01/21-01:30:39.930 14b8 Delete type=2 #15
+2026/01/21-01:31:15.804 14b8 Level-0 table #19: started
+2026/01/21-01:31:15.869 14b8 Level-0 table #19: 714804 bytes OK
+2026/01/21-01:31:15.871 14b8 Delete type=0 #14
+2026/01/21-01:31:20.277 14b8 Compacting 1@1 + 1@2 files
+2026/01/21-01:31:20.308 14b8 Generated table #20@1: 67 keys, 1498 bytes
+2026/01/21-01:31:20.308 14b8 Compacted 1@1 + 1@2 files => 1498 bytes
+2026/01/21-01:31:20.309 14b8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/21-01:31:20.310 14b8 Delete type=2 #17
+2026/01/21-01:31:20.310 14b8 Delete type=2 #19
+2026/01/21-01:32:11.463 14b8 Level-0 table #22: started
+2026/01/21-01:32:11.519 14b8 Level-0 table #22: 715402 bytes OK
+2026/01/21-01:32:11.521 14b8 Delete type=0 #18
+2026/01/21-01:32:13.624 14b8 Compacting 1@1 + 1@2 files
+2026/01/21-01:32:13.671 14b8 Generated table #23@1: 67 keys, 1498 bytes
+2026/01/21-01:32:13.671 14b8 Compacted 1@1 + 1@2 files => 1498 bytes
+2026/01/21-01:32:13.672 14b8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/21-01:32:13.673 14b8 Delete type=2 #20
+2026/01/21-01:32:13.673 14b8 Delete type=2 #22
+2026/01/21-01:37:25.094 35ec Level-0 table #25: started
+2026/01/21-01:37:25.141 35ec Level-0 table #25: 712589 bytes OK
+2026/01/21-01:37:25.143 35ec Delete type=0 #21
